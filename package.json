@@ -1,6 +1,6 @@
 {
   "name": "@inspir/pluto",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Pluto CLI",
   "main": "pluto.js",
   "type": "module",
